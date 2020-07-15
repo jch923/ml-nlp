@@ -32,3 +32,17 @@ sklearn에 관한 공부, 벗꽃 데이터를 활용한 예제 풀이
  - 영어 토크나이징 라이브러리(NLTK, Spacy)
  
  - 한글 토크나이징 라이브러리(KoNLPy)
+
+## 7월 15일
+
+ 추가적인 라이브러리 공부
+ 
+ - numpy
+ 
+ - pandas
+ 
+ - matplotlib
+ 
+ - RE
+ 
+ - Beautiful Soup
